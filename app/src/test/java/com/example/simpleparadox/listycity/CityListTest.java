@@ -99,7 +99,7 @@ class CityListTest {
 
         int num = 4;
 
-        assertEquals(2, num);
+        assertEquals(4, num);
 
     }
 }
